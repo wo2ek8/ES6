@@ -27,9 +27,9 @@ const noGmail = emails.filter(potato => !potato.includes('@gmail'));
 
 console.log(noGmail);
 
-const name = 'son jaei';
+/*const name = 'son jaei';
 
-console.log(name.split(' '));
+console.log(name.split(' '));*/
 
 /*emails.forEach(email => {
     console.log(email.split('@')[0]);
