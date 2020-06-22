@@ -1,6 +1,6 @@
 const wrapper = document.querySelector('.wrapper');
 
-const friends = ['me', 'woohyub', 'jihan', 'minbyeong'];
+/*const friends = ['me', 'woohyub', 'jihan', 'minbyeong'];*/
 
 const ul = document.createElement('ul');
 /*friends.forEach(friend => ul.append(`<li>${friend}</li>`));*/
@@ -26,12 +26,12 @@ const ul = document.createElement('ul');
         </ul>
 `;*/
 
-const list = `
+/*const list = `
     <h1>People i love</h1>
         <ul>
             ${friends.map(friend => `<li>${friend}💖</li>`).join('')}
         </ul>
-`;
+`;*/
 
 /*wrapper.append(ul);*/
-wrapper.innerHTML = list;
+/*wrapper.innerHTML = list;*/
