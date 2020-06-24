@@ -1,19 +1,21 @@
+/*
 const email = [
     'ji@no.com',
     'naver@google.com',
     'hyungjin@gmail.com',
     'jaei@nomad.com'
 ];
+*/
 
 /*const foundMail = email.find(item => true);*/
 
 /*const foundMail = email.find(item => item.includes('@gmail.com'));*/
 
-const foundMail = email.find(function(item) {
+/*const foundMail = email.find(function(item) {
     return item.includes('@gmail.com');
-});
+});*/
 
-console.log(foundMail);
+/*console.log(foundMail);*/
 
 const emails = [
     'ji@no.com',
