@@ -9,7 +9,7 @@
     }
 };*/
 
-const settings = {
+/*const settings = {
     notifications: {
         alerts: true,
         unfollow: false
@@ -17,7 +17,7 @@ const settings = {
     color: {
         theme: 'dark'
     }
-};
+};*/
 
 /*if(settings.notifications.follow) {
     //send email
@@ -50,20 +50,20 @@ const settings = {
     notifications: {follow = '재이가짱이야'}
 } = settings;*/
 
-const {notifications: {follow = 'false'} = {}} = settings;
+/*const {notifications: {follow = 'false'} = {}} = settings;*/
 
 /*console.log(follow);*/
 /*console.log(color);*/
 
 /*console.log(notifications);*/
-console.log(follow);
+/*console.log(follow);*/
 
 /*const {
     color: {theme}
 } = settings;*/
 
-const {
+/*const {
     color: {theme = 'light'}
 } = settings;
 
-console.log(theme);
+console.log(theme);*/
