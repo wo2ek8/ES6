@@ -1,5 +1,5 @@
-const follow = checkFollow();
-const alert = checkAlert();
+/*const follow = checkFollow();
+const alert = checkAlert();*/
 
 /*const settings = {
     notifications: {
@@ -8,9 +8,9 @@ const alert = checkAlert();
     }
 };*/
 
-const settings = {
+/*const settings = {
     notifications: {
         follow,
         alert
     }
-};
+};*/
