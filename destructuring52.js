@@ -1,8 +1,8 @@
-const settings = {
+/*const settings = {
     color: {
         chosen_color: 'dark'
     }
-};
+};*/
 
 /*const {
     color: {chosen_color = 'light'}
@@ -28,9 +28,9 @@ console.log(chosenColor);
     color: {chosen_color: chosenColor = 'light'}
 } = settings;*/
 
-({
+/*({
     color: {chosen_color: chosenColor = 'light'}
-} = settings);
+} = settings);*/
 
 /*const chosenColor = settings.color.chosen_color || 'light';*/
 
