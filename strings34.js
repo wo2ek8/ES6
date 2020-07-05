@@ -10,8 +10,8 @@ console.log(isEmail('jae2son@gmail.com'));*/
 
 console.log(displayName);*/
 
-const name = 'Ms. Jaei';
+/*const name = 'Ms. Jaei';
 
 console.log(name.startsWith('Ms'));
 console.log(name.endsWith('Ms'));
-console.log(name.endsWith('Jaei'));
+console.log(name.endsWith('Jaei'));*/
