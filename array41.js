@@ -5,13 +5,13 @@
     'woohyub@hotmail.com',
     'minbyeong@korea.com'
 ];*/
-const friends = [
+/*const friends = [
     'jaei@gmail.com',
     'jihan@naver.com',
     'seungjae@yahoo.com',
     'woohyub@hotmail.com',
     'minbyeong@gorea.com'
-];
+];*/
 
 /*const check = () => friends.findIndex(friend => friend.includes('@gorea.com'));*/
 
@@ -63,4 +63,4 @@ const friends = [
 
 /*console.log(friends);*/
 
-console.log(friends.includes('jaei@gmail.com'));
+/*console.log(friends.includes('jaei@gmail.com'));*/

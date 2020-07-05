@@ -30,7 +30,7 @@ button.addEventListener('click', handleClick);*/
     }
 };*/
 
-const jaei = {
+/*const jaei = {
     name: 'Jaei',
     age: 23,
     addYear() {
@@ -41,4 +41,4 @@ const jaei = {
 console.log(jaei);
 jaei.addYear();
 jaei.addYear();
-console.log(jaei);
+console.log(jaei);*/
