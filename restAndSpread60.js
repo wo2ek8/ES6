@@ -13,10 +13,10 @@ const sexy = {
     age: 23
 };
 
-const hello = {
+/*const hello = {
     sexy: true,
     hello: 'hello'
-};
+};*/
 
 /*console.log({...sexy, ...hello});*/
-console.log({sexy, hello});
+/*console.log({sexy, hello});*/
